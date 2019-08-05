@@ -1,0 +1,2 @@
+# NER_BI
+BiLSTM-IDCNN-CRF model
